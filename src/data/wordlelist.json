@@ -1,5 +1,9 @@
 [
 	{
+		"label": "Wordle",
+		"link": "https://www.nytimes.com/games/wordle/index.html"
+	},
+	{
 		"label": "Cinemadle",
 		"link": "https://cinemadle.com/"
 	},

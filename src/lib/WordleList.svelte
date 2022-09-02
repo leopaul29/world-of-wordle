@@ -1,14 +1,11 @@
 <script>
+	import WordleButton from "./WordleButton.svelte";
 	import data from "../data/wordlelist.json";
-
-	console.log(data);
 </script>
 
 <div class="wordleList">
 	{#each data as wordle}
-		<a href={wordle.link} target="_blank" rel="noopener noreferrer">
-			<button>{wordle.label}</button>
-		</a>
+		<WordleButton label={wordle.label} link={wordle.link} clicked={false} />
 	{/each}
 </div>
 

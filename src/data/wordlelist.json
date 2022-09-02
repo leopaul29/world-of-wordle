@@ -1,0 +1,80 @@
+[
+	{
+		"label": "Cinemadle",
+		"link": "https://cinemadle.com/"
+	},
+	{ "label": "Moviedle", "link": "https://moviedle.io/" },
+	{ "label": "Movie Wordle Board", "link": "https://movie-wordle.vercel.app/" },
+	{ "label": "Movlie", "link": "https://movlie.org/" },
+	{ "label": "Phoodle", "link": "https://phoodlegame.org/" },
+	{ "label": "Foodle", "link": "https://foodlegame.org/" },
+	{ "label": "Sedecordlewordle", "link": "https://sedecordlewordle.com/" },
+	{ "label": "Duotrigordle ", "link": "https://duotrigordle.org/" },
+	{ "label": "Dordlegame", "link": "https://dordlegame.org/" },
+	{ "label": "Quordlegame", "link": "https://quordlegame.com/" },
+	{ "label": "Octordle", "link": "https://octordle.org//" },
+	{ "label": "Flagle", "link": "https://flagle.net/" },
+	{ "label": "Globlegame", "link": "https://globlegame.org/" },
+	{ "label": "Waffle", "link": "https://waffle.gg/" },
+	{ "label": "BRDL", "link": "https://brdl.alex.gd/" },
+	{ "label": "Gordle", "link": "https://gordle.herokuapp.com/" },
+	{ "label": "Bardle", "link": "https://shakespearegeek.github.io/bardle/" },
+	{ "label": "Chessle", "link": "https://jackli.gg/chessle/" },
+	{
+		"label": "Canuckle",
+		"link": "https://canucklegame.github.io/canuckle/142.html"
+	},
+	{ "label": "Wordle", "link": "https://worldle.teuteuf.fr/" },
+	{ "label": "Dordle", "link": "https://zaratustra.itch.io/dordle/" },
+	{ "label": "Quordle", "link": "https://www.quordle.com/?mode=free#/" },
+	{ "label": "Lewdlegame", "link": "https://www.lewdlegame.com/App/" },
+	{ "label": "Octordle", "link": "https://octordle.com/home/" },
+	{ "label": "Poeltl", "link": "https://poeltl.dunk.town/" },
+	{ "label": "Flaggle", "link": "https://ducc.pythonanywhere.com/flaggle/" },
+	{ "label": "Evil wordle", "link": "https://swag.github.io/evil-wordle/" },
+	{ "label": "Mathler", "link": "https://www.mathler.com/" },
+	{ "label": "Nerdlegame", "link": "https://nerdlegame.com/" },
+	{ "label": "sedecordle", "link": "https://www.sedecordle.com/" },
+	{
+		"label": "Who-are-ya",
+		"link": "https://playfootball.games/who-are-ya/big-5/"
+	},
+	{ "label": "Footbl", "link": "https://playfootball.games/footbl/5/" },
+	{ "label": "Phrazle", "link": "https://solitaired.com/phrazle/" },
+	{ "label": "Word Hurdle", "link": "https://solitaired.com/wordhurdle/" },
+	{ "label": "CFBordle", "link": "https://cfbordle.redditcfb.com/" },
+	{
+		"label": "Lordle of the rings",
+		"link": "https://digitaltolkien.github.io/vue-wordle/"
+	},
+	{
+		"label": "Absurdle ",
+		"link": "https://qntm.org/files/absurdle/absurdle.html/"
+	},
+	{ "label": "Crosswordle", "link": "https://crosswordle.serializer.ca/" },
+	{ "label": "Byrdle", "link": "https://www.byrdle.net//" },
+	{ "label": "Squirdle", "link": "https://squirdle.fireblend.com/" },
+	{ "label": "Searchdle", "link": "https://wtfseo.com/searchdle/" },
+	{ "label": "Star wordle", "link": "https://www.starwordle.com/" },
+	{ "label": "Wheredle", "link": "https://wheredle.xyz/" },
+	{
+		"label": "9-letter-words-wordle",
+		"link": "https://wordlegame.org/9-letter-words-wordle/"
+	},
+	{
+		"label": "10-letter-words-wordle",
+		"link": "https://wordlegame.org/10-letter-words-wordle/"
+	},
+	{
+		"label": "11-letter-words-wordle",
+		"link": "https://wordlegame.org/11-letter-words-wordle/"
+	},
+	{
+		"label": "7-letter-words-wordle",
+		"link": "https://wordlegame.org/7-letter-words-wordle/"
+	},
+	{
+		"label": "5-letter-words-wordle",
+		"link": "https://wordlegame.org/5-letter-words-wordle/"
+	}
+]
